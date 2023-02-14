@@ -1,0 +1,5 @@
+#box{
+  position: absolute;
+  width: 500px; height: 350px;
+  background-color: #ff88ff;
+}

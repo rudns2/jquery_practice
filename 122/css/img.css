@@ -1,0 +1,24 @@
+#list > li > a{
+  display: block;
+  width: 100px; height: 100px;
+  background-color: #74fb9f;
+  margin: 55px;
+}
+#list > li > .active{
+
+}
+
+.img_box{
+  position: absolute;
+  right: 500px; top: 100px;
+}
+
+#thum>li{
+  list-style: none;
+  float: left;
+  padding-right: 30px;
+}
+
+#thum>li>img{
+  width: 100px; height: 75px;
+}
